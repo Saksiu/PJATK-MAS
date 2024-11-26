@@ -10,3 +10,5 @@ Initial, Analitical diagram:
 
 More detailed, Project diagram:
 ![MMOManager_project_diagram](https://github.com/user-attachments/assets/411643ab-775f-4108-b7cf-24bf511e1880)
+
+You can find more details about each project in their respective sub-directories.
